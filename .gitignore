@@ -163,3 +163,5 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+
+secret.yaml
